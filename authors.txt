@@ -1,7 +1,7 @@
 PROJECT NAME: SIMPLESHELL.
 AUTHORS:
 1. POLYMATH UNIVERSATA
-   EMAIL ADDRESS:
+   EMAIL ADDRESS: polymathuniversata@outlook.com
 
 2. MODUPEOLUWAMI
    EMAIL ADDRESS: modutoria@gmail.com 
